@@ -9,7 +9,7 @@ number: float = 9
 ### sequence d'opérations
 resultat: float = number / 2
 
-reste: int = number % 2
+reste: int = int(number % 2)
 
 print("resultat = " + str(resultat))
 print("reste = " + str(reste))

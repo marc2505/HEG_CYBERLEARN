@@ -19,11 +19,6 @@ surface = pi*rayon**2
 perimetre = 2*pi*rayon
 
 
-
-
-
-
-
 ### fin code ###
 
 print("surface:", surface)
